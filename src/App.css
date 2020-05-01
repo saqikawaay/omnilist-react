@@ -1,0 +1,81 @@
+#overlay {
+    position:fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5); 
+    z-index: 2;
+    cursor: pointer;
+}
+
+
+
+
+
+body{
+    background: #2f2f2f;
+    font-family: 'Montserrat Alternates', sans-serif;
+    background-image: url("bg.jpg");
+    font-size: 25px;
+}
+
+.btn{
+    background: blue;
+    margin: 20px;
+}
+
+.add-btn{
+    background: #ffffff50;
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    font-size: 24px;
+    color: whitesmoke;
+    font-weight: 500;
+    margin-left: 10px;
+    border-color: #2f2f2f50;
+
+}
+
+.app-title{
+    text-align: left;
+    color: whitesmoke;
+    font-size: 70px;
+    padding-left: 120px;
+}
+
+.container{
+    border: 10px cornflowerblue;
+    border-radius: 10px;
+}
+
+.new-item-input{
+    border-width: 4px white;
+    border-radius: 30px;
+    background-color: #2f2f2f70;
+    color: white; 
+    font-size: 25px;
+    padding-top: 10px; 
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    background: #2f222220;
+    
+}
+
+.delete-btn{
+    font-size: 18px;
+    border-radius: 30px;
+    background-color: #ffffff40;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    vertical-align: middle;
+    border-color: #ffffff01
+}
