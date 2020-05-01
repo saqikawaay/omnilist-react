@@ -1,3 +1,13 @@
+## Omnilist
+
+This is an ongoing app available to keep track of to-dos, show weather, and be a general-use outliner/mind-mapper. 
+
+
+
+
+## React default stuff continues here: 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
